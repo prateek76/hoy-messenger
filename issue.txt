@@ -1,0 +1,20 @@
+fixed and added
+//new message notification
+//image uploader
+//incresed font size of react
+
+
+* remove name error on message box
+* form data appending extra var
+* link clicable and seeablee;)
+* fix js errors
+* make it more stable
+* beutify project
+
+//add
+
+group chat making ability upto 150 users per group
+
+//use local storage to store all users
+
+//try to make array and limit users shown acc. to contacts they have
